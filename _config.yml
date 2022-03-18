@@ -1,7 +1,7 @@
 # Site settings
 title: "M4jrt0m"
 email: m4jrt0m@gmail.com
-description: "s"
+description: ""
 baseurl: ""
 url: ""
 title_description: ""
@@ -13,7 +13,7 @@ post_limit: 5
 github_username:  m4jrt0m
 
 # Footer
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/m4jrt0m/m4jrt0m.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer: "&lt;/&gt; on <a href=\"https://github.com/m4jrt0m/m4jrt0m.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
