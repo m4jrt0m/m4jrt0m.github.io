@@ -22,6 +22,7 @@ $medium:         #3B3B35;
 $light-medium:   #969696;
 $dark-blue:      #215A6D;
 $light-blue:     #3CA2A2;
+$purple-blue:    #365899;
 $green:          #92C7A3;
 $light:          #DFECE6;
 $white:          #FFFFFF;
@@ -54,7 +55,7 @@ body {
 }
 
 a, a:active {
-	color: $medium-purple;
+	color: $purple-blue;
 	text-decoration: none;
 }
 
@@ -135,7 +136,7 @@ ul {
 	padding-right: 30px;
 	margin-top: 20px;
 	box-shadow: 0px 0px 0px 0px, 0px 6px 12px rgba(0, 0, 0, 0.2);
-	border-bottom: 5px solid $medium-purple;
+	border-bottom: 5px solid $purple-blue;
 }
 
 #my-menu {
@@ -149,7 +150,7 @@ ul {
 	}
 
 	a:hover {
-		color: $medium-purple;
+		color: $purple-blue;
 	}
 
 	.pages {
@@ -252,12 +253,12 @@ ul {
 	}
 
 	.content-panel:nth-of-type(1) {
-		border-bottom: 10px solid $medium-purple;
+		border-bottom: 10px solid $purple-blue;
 	}
 
 	.author-header {
 		font-family: 'Montserrat', sans-serif;
-		color: $medium-purple;
+		color: $purple-blue;
 		margin-top: 0px;
 		padding-top: 15px;
 		font-size: 30px;
@@ -307,7 +308,7 @@ ul {
 
 		h2 {
 			margin-bottom: 30px;
-			color: $medium-purple;
+			color: $purple-blue;
 			font-size: 26px;
 		}
 
@@ -347,7 +348,7 @@ ul {
 		}
 
 		a:hover {
-			color: $medium-purple;
+			color: $purple-blue;
 		}
 	}
 
@@ -374,7 +375,7 @@ ul {
 		}
 
 		a:hover {
-			color: $medium-purple;
+			color: $purple-blue;
 		}
 
 		ul {
@@ -477,7 +478,7 @@ ul {
 		}
 
 		a:hover {
-			color: $medium-purple;
+			color: $purple-blue;
 		}
 
 		h4 {
@@ -700,7 +701,7 @@ ul {
 				}
 
 				a:hover {
-					color: $medium-purple;
+					color: $purple-blue;
 				}
 
 			}
@@ -810,7 +811,7 @@ ul {
 		margin-top: 30px;
 
 		a {
-			color: $medium-purple;
+			color: $purple-blue;
 		}
 	}
 
@@ -852,8 +853,8 @@ ul {
 }
 
 .btn-categories {
-	background-color: $medium-purple;
-	border-color: $medium-purple;
+	background-color: $purple-blue;
+	border-color: $purple-blue;
 	color: $white;
 	&:hover {
 		background-color: $dark-blue;
@@ -873,10 +874,10 @@ ul {
 }
 
 .dropdown-menu {
-	background-color: $medium-purple;
+	background-color: $purple-blue;
 	color: $white;
 	> li > a {
-		background-color: $medium-purple;
+		background-color: $purple-blue;
 		color: $white;
 		&:hover {
 			background-color: $dark-blue;
