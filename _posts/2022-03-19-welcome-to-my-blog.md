@@ -4,7 +4,6 @@ title:      Welcome to my blog
 date:       2022-03-19 00:00:00
 author:     m4jrt0m
 summary:    m4jrt0m blog focus on cybersecurity, ctf chalenges and code.
-categories: jekyll
 thumbnail:  heart
 tags:
  - welcome
